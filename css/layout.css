@@ -1,0 +1,81 @@
+/* mobile smaccs */
+
+@media all and (max-width: 480px){
+
+  header p {
+    position: absolute;
+    float: both; 
+    top: 45%;
+    left: 50%;
+  }
+
+  nav p{
+    position: absolute;
+    float: both;
+    top: 45%;
+    left: 50%;
+  }
+
+      
+  .landscape p{
+    float: both;
+    position: absolute;
+    top: 45%;
+    left: 50%;   
+  }
+
+.portrait p{
+    position: absolute;
+    top: 45%;
+    left: 50%;
+  }
+
+
+.footer p{
+    top: 45%;
+    left: 50%;
+    position: absolute; 
+  }   
+
+
+
+}
+
+
+/* desktop verion */
+
+@media all and (min-width: 481px ) and (max-width: 960px){
+
+   
+  header p {
+    position: absolute;
+    float: both; 
+    top: 45%;
+    left: 50%;
+  }
+
+
+  nav p{
+    position: absolute;
+    float: both;
+    top: 45%;
+    left: 50%;
+  }
+  .landscape p{
+    float: both;
+    position: absolute;
+    top: 45%;
+    left: 50%;
+    
+  }
+
+}
+
+
+
+
+/* biggest verion */
+
+@media all and (min-width: 961px){
+    
+}
